@@ -1,4 +1,4 @@
-/* *  Intro to MongoDB *  */
+/* *  Intro to Mongoose *  */
 //// module 6
 //& video 1
 /**
