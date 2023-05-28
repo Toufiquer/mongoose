@@ -10,7 +10,7 @@
 /**
  * # MongoDB
  * find()
- * find()
+ * findOne()
  * insertMany()
  * count()
  * update()
@@ -25,7 +25,7 @@
  * */
 
 /**
- * # Key Features of MongoDB
+ * # Key Features of Mongoose
  * Schema Definition
  * Model Creation
  * Data Validation

@@ -1,6 +1,6 @@
 /**
  * @ create Model using Schema and Interface
- * @ const model <[InterFace]>("[ModelName]",[SchemaName])
+ * @ const model <[InterFace]>("[ModelName]",[Schema])
  * @ create instance of Model
  *
  * */
