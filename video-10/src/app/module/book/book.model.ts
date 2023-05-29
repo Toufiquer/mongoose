@@ -13,6 +13,8 @@ const BookSchema = new Schema<BOOK, BookModel, BOOK_NAME_PRICE>({
   price: Number,
 });
 
+
+// instance methods
 BookSchema.method("getNamePrice", function getNamePrice() {
   return this.name + " " + this.price;
 });

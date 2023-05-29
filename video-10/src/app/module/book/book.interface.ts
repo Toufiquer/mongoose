@@ -8,6 +8,7 @@ export interface BOOK {
   price: number;
 }
 
+// instance method interface
 export interface BOOK_NAME_PRICE {
   getNamePrice(): string;
 }
